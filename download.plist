@@ -13,16 +13,6 @@
                     <key>url</key>                                                                                                                           
                     <string>http://10.1.11.233:8082/output/IOS_1.0.0_268.ipa</string>
                 </dict>
-              
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>http://10.1.11.233:8082/output/appicon.png</string>
-                </dict>
-              
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>

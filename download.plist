@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>                                                                                                                           
-                    <string>http://10.1.11.233:8082/output/IOS_1.0.0_268.ipa</string>
+                    <string>https://10.1.11.233:8081/output/IOS_1.0.0_268.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://10.1.11.233:8082/output/appicon.png</string>
+                    <string>https://10.1.11.233:8081/output/appicon.png</string>
                 </dict>
               
             </array>

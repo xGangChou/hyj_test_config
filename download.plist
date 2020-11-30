@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://10.1.11.233:8081/appicon.jpg</string>
+                    <string>https://10.1.11.233:8081/appicon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://10.1.11.233:8081/bg.jpg</string>
+                    <string>https://10.1.11.233:8081/bg.png</string>
                </dict>
             </array>
             <key>metadata</key>

@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://10.1.11.233:8081/output/appicon.png</string>
+                    <string>https://10.1.11.233:8081/appicon.jpg</string>
                 </dict>
               
             </array>
